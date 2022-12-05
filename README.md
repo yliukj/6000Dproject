@@ -4,10 +4,10 @@
 # Run the code
 
 ### Overview
-DGPP-model definition
-HK-training and testing dataset
-preprocess-dataset preprocessing
-Main.py - Main functions
+* DGPP-model definition
+* HK-training and testing dataset
+* preprocess-dataset preprocessing
+* Main.py - Main functions
 
 ### Dependencies
 * python = 3.7.4
